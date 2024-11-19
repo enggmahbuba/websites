@@ -1,0 +1,42 @@
+*{
+padding: 0px;
+margin: 0px;
+color:white;
+padding: fixed;
+}
+.navbar{
+    height: 50px;
+    background-color:black;
+    
+
+}
+
+select{
+color:white;
+background:transparent ;
+border: none;
+accent-color:rgb(184, 15, 15) ;
+
+}
+span{
+
+    margin-left:900px ;
+}
+a{
+    height:500px;
+    width:100px;
+    border: 50px;
+    padding-bottom:initial;
+}
+.model{
+   height: 400px;
+    width: 1200px; 
+   
+    background-image: url(model2.jpg);
+    background-size: cover;
+    text-align: right;
+    font-family: sans-serif;
+    
+  
+   
+}
